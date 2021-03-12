@@ -1,0 +1,16 @@
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\bin\Debug\net5.0\DeepFirstSearch.exe
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\bin\Debug\net5.0\DeepFirstSearch.deps.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\bin\Debug\net5.0\DeepFirstSearch.runtimeconfig.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\bin\Debug\net5.0\DeepFirstSearch.runtimeconfig.dev.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\bin\Debug\net5.0\DeepFirstSearch.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\bin\Debug\net5.0\ref\DeepFirstSearch.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\bin\Debug\net5.0\DeepFirstSearch.pdb
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\obj\Debug\net5.0\DeepFirstSearch.csprojAssemblyReference.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\obj\Debug\net5.0\DeepFirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\obj\Debug\net5.0\DeepFirstSearch.AssemblyInfoInputs.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\obj\Debug\net5.0\DeepFirstSearch.AssemblyInfo.cs
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\obj\Debug\net5.0\DeepFirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\obj\Debug\net5.0\DeepFirstSearch.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\obj\Debug\net5.0\ref\DeepFirstSearch.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\obj\Debug\net5.0\DeepFirstSearch.pdb
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\DeepFirstSearch\obj\Debug\net5.0\DeepFirstSearch.genruntimeconfig.cache
