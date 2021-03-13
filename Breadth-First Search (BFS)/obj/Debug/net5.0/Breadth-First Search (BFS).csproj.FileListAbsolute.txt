@@ -1,0 +1,16 @@
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\obj\Debug\net5.0\Breadth-First Search (BFS).csprojAssemblyReference.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\obj\Debug\net5.0\Breadth-First Search (BFS).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\obj\Debug\net5.0\Breadth-First Search (BFS).AssemblyInfoInputs.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\obj\Debug\net5.0\Breadth-First Search (BFS).AssemblyInfo.cs
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\obj\Debug\net5.0\Breadth-First Search (BFS).csproj.CoreCompileInputs.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\bin\Debug\net5.0\Breadth-First Search (BFS).exe
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\bin\Debug\net5.0\Breadth-First Search (BFS).deps.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\bin\Debug\net5.0\Breadth-First Search (BFS).runtimeconfig.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\bin\Debug\net5.0\Breadth-First Search (BFS).runtimeconfig.dev.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\bin\Debug\net5.0\Breadth-First Search (BFS).dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\bin\Debug\net5.0\ref\Breadth-First Search (BFS).dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\bin\Debug\net5.0\Breadth-First Search (BFS).pdb
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\obj\Debug\net5.0\Breadth-First Search (BFS).dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\obj\Debug\net5.0\ref\Breadth-First Search (BFS).dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\obj\Debug\net5.0\Breadth-First Search (BFS).pdb
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\Breadth-First Search (BFS)\obj\Debug\net5.0\Breadth-First Search (BFS).genruntimeconfig.cache
