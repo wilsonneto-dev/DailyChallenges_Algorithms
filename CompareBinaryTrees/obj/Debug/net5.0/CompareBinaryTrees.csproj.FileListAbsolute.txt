@@ -1,0 +1,16 @@
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\obj\Debug\net5.0\CompareBinaryTrees.csprojAssemblyReference.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\obj\Debug\net5.0\CompareBinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\obj\Debug\net5.0\CompareBinaryTrees.AssemblyInfoInputs.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\obj\Debug\net5.0\CompareBinaryTrees.AssemblyInfo.cs
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\obj\Debug\net5.0\CompareBinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\bin\Debug\net5.0\CompareBinaryTrees.exe
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\bin\Debug\net5.0\CompareBinaryTrees.deps.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\bin\Debug\net5.0\CompareBinaryTrees.runtimeconfig.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\bin\Debug\net5.0\CompareBinaryTrees.runtimeconfig.dev.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\bin\Debug\net5.0\CompareBinaryTrees.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\bin\Debug\net5.0\ref\CompareBinaryTrees.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\bin\Debug\net5.0\CompareBinaryTrees.pdb
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\obj\Debug\net5.0\CompareBinaryTrees.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\obj\Debug\net5.0\ref\CompareBinaryTrees.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\obj\Debug\net5.0\CompareBinaryTrees.pdb
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\CompareBinaryTrees\obj\Debug\net5.0\CompareBinaryTrees.genruntimeconfig.cache

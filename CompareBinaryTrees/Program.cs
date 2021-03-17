@@ -19,6 +19,8 @@ namespace Program
   class Program {
       static bool compareTrees(Tree<int> tree1, Tree<int> tree2) 
       {
+        System.Console.WriteLine($"comparando {tree1?.Data} {tree2?.Data}");
+
         if(tree1 == null || tree2 == null)
           return tree1 == tree2;
 
@@ -34,7 +36,7 @@ namespace Program
         Tree<int> tree01 = new Tree<int>(1, new Tree<int>(2), new Tree<int>(3));
         Tree<int> tree02 = new Tree<int>(1, new Tree<int>(2), new Tree<int>(3));
         Tree<int> tree03 = new Tree<int>(1, new Tree<int>(2, new Tree<int>(4), new Tree<int>(5)), new Tree<int>(3));
-        Tree<int> tree04 = new Tree<int>(0, new Tree<int>(2, new Tree<int>(4), new Tree<int>(5)), new Tree<int>(3));
+        Tree<int> tree04 = new Tree<int>(1, new Tree<int>(2, new Tree<int>(4), new Tree<int>(6)), new Tree<int>(3));
         
         var result = compareTrees(tree03, tree04);
         Console.WriteLine(result);
