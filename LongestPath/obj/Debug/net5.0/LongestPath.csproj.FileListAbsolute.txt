@@ -1,0 +1,16 @@
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\obj\Debug\net5.0\LongestPath.csprojAssemblyReference.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\obj\Debug\net5.0\LongestPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\obj\Debug\net5.0\LongestPath.AssemblyInfoInputs.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\obj\Debug\net5.0\LongestPath.AssemblyInfo.cs
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\obj\Debug\net5.0\LongestPath.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\bin\Debug\net5.0\LongestPath.exe
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\bin\Debug\net5.0\LongestPath.deps.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\bin\Debug\net5.0\LongestPath.runtimeconfig.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\bin\Debug\net5.0\LongestPath.runtimeconfig.dev.json
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\bin\Debug\net5.0\LongestPath.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\bin\Debug\net5.0\ref\LongestPath.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\bin\Debug\net5.0\LongestPath.pdb
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\obj\Debug\net5.0\LongestPath.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\obj\Debug\net5.0\ref\LongestPath.dll
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\obj\Debug\net5.0\LongestPath.pdb
+C:\Users\Wilson Neto\Desktop\DailyChanlenges_Algorithms\LongestPath\obj\Debug\net5.0\LongestPath.genruntimeconfig.cache
